@@ -19,7 +19,7 @@ body {
 
 span {
   position: absolute;
-  background: url(../img/heart.png);
+  background: url(../heart.png);
   background-size: cover;
   pointer-events: none;
   transform: translate(-50%, -50%);
